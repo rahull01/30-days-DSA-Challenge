@@ -1,0 +1,126 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "pirnt",
+            "request": "launch",
+            "mainClass": "pirnt",
+            "projectName": "DSA 30 days challenge_26066d31"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "factorial",
+            "projectName": "DSA 30 days challenge_26066d31"
+        },
+        {
+            "type": "java",
+            "name": "main2",
+            "request": "launch",
+            "mainClass": "main2",
+            "projectName": "DSA 30 days challenge_26066d31"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "DSA 30 days challenge_26066d31"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "FindElements",
+            "request": "launch",
+            "mainClass": "FindElements",
+            "projectName": "DSA 30 days challenge_26066d31"
+        },
+        {
+            "type": "java",
+            "name": "FindMissing",
+            "request": "launch",
+            "mainClass": "FindMissing",
+            "projectName": "DSA 30 days challenge_26066d31"
+        },
+        {
+            "type": "java",
+            "name": "IfSorted",
+            "request": "launch",
+            "mainClass": "IfSorted",
+            "projectName": "DSA 30 days challenge_26066d31"
+        },
+        {
+            "type": "java",
+            "name": "MoveZeros",
+            "request": "launch",
+            "mainClass": "MoveZeros",
+            "projectName": "DSA 30 days challenge_26066d31"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicate",
+            "request": "launch",
+            "mainClass": "RemoveDuplicate",
+            "projectName": "DSA 30 days challenge_26066d31"
+        },
+        {
+            "type": "java",
+            "name": "ReverseArrya",
+            "request": "launch",
+            "mainClass": "ReverseArrya",
+            "projectName": "DSA 30 days challenge_26066d31"
+        },
+        {
+            "type": "java",
+            "name": "Rotaite_k_Position",
+            "request": "launch",
+            "mainClass": "Rotaite_k_Position",
+            "projectName": "DSA 30 days challenge_26066d31"
+        },
+        {
+            "type": "java",
+            "name": "first",
+            "request": "launch",
+            "mainClass": "first",
+            "projectName": "DSA 30 days challenge_26066d31"
+        },
+        {
+            "type": "java",
+            "name": "secondLargest2nd",
+            "request": "launch",
+            "mainClass": "secondLargest2nd",
+            "projectName": "DSA 30 days challenge_26066d31"
+        },
+        {
+            "type": "java",
+            "name": "secondLargestElement",
+            "request": "launch",
+            "mainClass": "secondLargestElement",
+            "projectName": "DSA 30 days challenge_26066d31"
+        },
+        {
+            "type": "java",
+            "name": "sumArray",
+            "request": "launch",
+            "mainClass": "sumArray",
+            "projectName": "DSA 30 days challenge_26066d31"
+        },
+        {
+            "type": "java",
+            "name": "target",
+            "request": "launch",
+            "mainClass": "target",
+            "projectName": "DSA 30 days challenge_26066d31"
+        }
+    ]
+}
