@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "IterateGCD",
+            "request": "launch",
+            "mainClass": "IterateGCD",
+            "projectName": "DSA 30 days challenge_26066d31"
+        },
+        {
+            "type": "java",
             "name": "GCD",
             "request": "launch",
             "mainClass": "GCD",
