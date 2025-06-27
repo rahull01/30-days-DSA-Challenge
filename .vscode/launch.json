@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "sumOfArray",
+            "request": "launch",
+            "mainClass": "sumOfArray",
+            "projectName": "DSA 30 days challenge_26066d31"
+        },
+        {
+            "type": "java",
+            "name": "maxElements",
+            "request": "launch",
+            "mainClass": "maxElements",
+            "projectName": "DSA 30 days challenge_26066d31"
+        },
+        {
+            "type": "java",
             "name": "biggestElementsInAnArray",
             "request": "launch",
             "mainClass": "biggestElementsInAnArray",
