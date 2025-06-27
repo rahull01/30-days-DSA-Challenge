@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GCD",
+            "request": "launch",
+            "mainClass": "GCD",
+            "projectName": "DSA 30 days challenge_26066d31"
+        },
+        {
+            "type": "java",
             "name": "pirnt",
             "request": "launch",
             "mainClass": "pirnt",
